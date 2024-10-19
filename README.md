@@ -1,3 +1,3 @@
 # BlackJack Vite
 
-This is my first JavaScrip project, i did not did it bt myself i did it with a curse.
+This is my first JavaScript project, i did not did it by myself i did it with a corse.
